@@ -4,5 +4,5 @@
 
 **Fourth Java Project!**
 
-## Make Non-Target Skill's Accuration Higher 
+## Description
 
