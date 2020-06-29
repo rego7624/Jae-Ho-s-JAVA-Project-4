@@ -6,7 +6,7 @@
 
 ## Compete with Fake League of Legends Bot!
 
-<img alt="League of Legends" src="https://theme.zdassets.com/theme_assets/43400/87a1ef48e43b8cf114017e3ad51b801951b20fcf.jpg" width="400">
+<img alt="League of Legends" src="https://github.com/Skinz3/League-of-Legends-Bot/raw/master/icon.png" width="400">
 
 ## Description
 
